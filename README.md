@@ -27,10 +27,6 @@
   <img align="center" alt="biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
-  ### Atualmente, estou trabalhando como desenvolvedor frontend e também dedicando tempo aos estudos de tecnologias de backend para aprimorar ainda mais minhas habilidades.
-  ##
  
 <div> 
   
